@@ -1,3 +1,2 @@
 Git is a distibuted version contol system
-Git is  free software
-沈鑫傻逼
+Git is  free software distibuted under the GPL
